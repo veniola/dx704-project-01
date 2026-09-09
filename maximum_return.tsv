@@ -1,7 +1,7 @@
-	Asset	Allocation
-0	AAPL	0.0
-1	GSPC	0.0
-2	TSLA	1.0
-3	EURUSD	0.0
-4	META	0.0
-5	SPOT	0.0
+Asset	Allocation
+AAPL	0.0
+SPY	0.0
+TSLA	1.0
+EURUSD	0.0
+META	0.0
+SPOT	0.0
